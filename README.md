@@ -39,7 +39,7 @@ Every project I take on is an opportunity to learn something new and write bette
 
 ---
 
-## 🏆 Trofeos
+## 🏆 Trophics
 
 ![](https://github-profile-trophy.vercel.app/?username=Miniyonminerat&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 

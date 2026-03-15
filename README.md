@@ -1,6 +1,15 @@
-# 💫 About Me:
-Desarrollador Full Stack en formación | Apasionado por construir soluciones web | Aprendiendo cada día a escribir mejor código.
+# Hola, soy Juan Diego Monsalve 👋
 
+Soy un **Desarrollador Full Stack** en el inicio de mi camino profesional, 
+con un fuerte compromiso hacia el aprendizaje continuo y la construcción 
+de aplicaciones web funcionales y bien estructuradas.
+
+Aunque tengo menos de un año de experiencia, afronto cada proyecto con 
+disciplina, curiosidad y enfoque en escribir código limpio y mantenible.
+
+Trabajo en todo el ciclo de desarrollo — desde el diseño de interfaces 
+intuitivas hasta la lógica del servidor — y constantemente amplío mis 
+bases técnicas a través de proyectos prácticos.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Miniyon Minerat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__monsalve__jdm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Juan Diego Monsalve Martinez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miniyonminerat2@gmail.com) 

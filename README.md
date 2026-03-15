@@ -1,4 +1,6 @@
-# ¡Hola! Soy Juan Diego Monsalve 👋
+<p align="center">
+  <img src="./header.svg" alt="Juan Diego Monsalve - Programador" />
+</p>
 
 > *"En proceso de convertirme en desarrollador Full Stack, una línea de código a la vez."* 🔥
 

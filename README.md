@@ -2,15 +2,13 @@
   <img src="./imagen.svg" alt="Juan Diego Monsalve - Programador" />
 </p>
 
-> *"En proceso de convertirme en desarrollador Full Stack, una línea de código a la vez."* 🔥
+"In the process of becoming a Full Stack Developer, one line of code at a time." 🔥
 
-Soy un desarrollador en formación con menos de un año de experiencia, pero con mucha disciplina y ganas de crecer. Me apasiona construir aplicaciones web funcionales y bien estructuradas, trabajando tanto en el frontend como en el backend.
-
-Cada proyecto que afronto es una oportunidad para aprender algo nuevo y escribir mejor código. Actualmente profundizando en **Django**, **JavaScript** y bases de datos relacionales.
-
+I'm a developer in training with less than a year of experience, but with a lot of discipline and eagerness to grow. I'm passionate about building functional and well-structured web applications, working across both the frontend and the backend.
+Every project I take on is an opportunity to learn something new and write better code. Currently deepening my skills in Django, JavaScript, and relational databases.
 ---
 
-## 🌐 Redes sociales
+## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/miniyon.minerat.5/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__monsalve__jdm)
@@ -47,7 +45,7 @@ Cada proyecto que afronto es una oportunidad para aprender algo nuevo y escribir
 
 ---
 
-### ✍️ Frase del día
+### ✍️ Dev Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 

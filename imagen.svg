@@ -1,0 +1,37 @@
+<svg width="800" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7F77DD"/>
+      <stop offset="25%" stop-color="#1D9E75"/>
+      <stop offset="50%" stop-color="#D85A30"/>
+      <stop offset="75%" stop-color="#D4537E"/>
+      <stop offset="100%" stop-color="#378ADD"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1D9E75"/>
+      <stop offset="50%" stop-color="#7F77DD"/>
+      <stop offset="100%" stop-color="#D4537E"/>
+    </linearGradient>
+    <style>
+      .nombre { font: 700 52px 'Segoe UI', sans-serif; fill: url(#g1); letter-spacing: 2px; }
+      .rol { font: 400 22px 'Segoe UI', sans-serif; fill: url(#g2); letter-spacing: 6px; }
+      .letra { opacity: 0; }
+      .l1{animation:a .1s .1s forwards}.l2{animation:a .1s .2s forwards}
+      .l3{animation:a .1s .3s forwards}.l4{animation:a .1s .4s forwards}
+      .l5{animation:a .1s .5s forwards}.l6{animation:a .1s .6s forwards}
+      .l7{animation:a .1s .7s forwards}.l8{animation:a .1s .8s forwards}
+      .l9{animation:a .1s .9s forwards}.l10{animation:a .1s 1.0s forwards}
+      .l11{animation:a .1s 1.1s forwards}.l12{animation:a .1s 1.2s forwards}
+      .l13{animation:a .1s 1.3s forwards}.l14{animation:a .1s 1.4s forwards}
+      .l15{animation:a .1s 1.5s forwards}.l16{animation:a .1s 1.6s forwards}
+      .l17{animation:a .1s 1.7s forwards}.l18{animation:a .1s 1.8s forwards}
+      .l19{animation:a .1s 1.9s forwards}
+      .rol-fade{opacity:0;animation:a .8s 2.2s forwards}
+      @keyframes a{to{opacity:1}}
+    </style>
+  </defs>
+  <text x="400" y="100" text-anchor="middle" class="nombre">
+    <tspan class="letra l1">J</tspan><tspan class="letra l2">u</tspan><tspan class="letra l3">a</tspan><tspan class="letra l4">n</tspan><tspan class="letra l5"> </tspan><tspan class="letra l6">D</tspan><tspan class="letra l7">i</tspan><tspan class="letra l8">e</tspan><tspan class="letra l9">g</tspan><tspan class="letra l10">o</tspan><tspan class="letra l11"> </tspan><tspan class="letra l12">M</tspan><tspan class="letra l13">o</tspan><tspan class="letra l14">n</tspan><tspan class="letra l15">s</tspan><tspan class="letra l16">a</tspan><tspan class="letra l17">l</tspan><tspan class="letra l18">v</tspan><tspan class="letra l19">e</tspan>
+  </text>
+  <text x="400" y="148" text-anchor="middle" class="rol rol-fade">P R O G R A M A D O R</text>
+</svg>

@@ -49,6 +49,4 @@ Every project I take on is an opportunity to learn something new and write bette
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 
-[![](https://visitcount.itsvg.in/api?id=Miniyonminerat&icon=2&color=4)](https://visitcount.itsvg.in)

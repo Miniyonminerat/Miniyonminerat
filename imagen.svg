@@ -7,14 +7,9 @@
       <stop offset="75%" stop-color="#D4537E"/>
       <stop offset="100%" stop-color="#378ADD"/>
     </linearGradient>
-    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1D9E75"/>
-      <stop offset="50%" stop-color="#7F77DD"/>
-      <stop offset="100%" stop-color="#D4537E"/>
-    </linearGradient>
     <style>
       .nombre { font: 700 52px 'Segoe UI', sans-serif; fill: url(#g1); letter-spacing: 2px; }
-      .rol { font: 400 22px 'Segoe UI', sans-serif; fill: url(#g2); letter-spacing: 6px; }
+      .rol { font: 400 22px 'Segoe UI', sans-serif; fill: #7F77DD; letter-spacing: 6px; }
       .letra { opacity: 0; }
       .l1{animation:a .1s .1s forwards}.l2{animation:a .1s .2s forwards}
       .l3{animation:a .1s .3s forwards}.l4{animation:a .1s .4s forwards}
@@ -26,13 +21,35 @@
       .l15{animation:a .1s 1.5s forwards}.l16{animation:a .1s 1.6s forwards}
       .l17{animation:a .1s 1.7s forwards}.l18{animation:a .1s 1.8s forwards}
       .l19{animation:a .1s 1.9s forwards}
-      .rol-fade{opacity:0;animation:a .8s 2.2s forwards}
-      @keyframes a{to{opacity:1}}
+      .rol1 { animation: ciclo1 6s 2.2s infinite, pulso 2s infinite; }
+      .rol2 { animation: ciclo2 6s 2.2s infinite, pulso 2s infinite; }
+      @keyframes ciclo1 {
+        0%   { opacity: 0; }
+        10%  { opacity: 1; }
+        40%  { opacity: 1; }
+        50%  { opacity: 0; }
+        100% { opacity: 0; }
+      }
+      @keyframes ciclo2 {
+        0%   { opacity: 0; }
+        50%  { opacity: 0; }
+        60%  { opacity: 1; }
+        90%  { opacity: 1; }
+        100% { opacity: 0; }
+      }
+      @keyframes pulso {
+        0%   { fill: #534AB7; }
+        50%  { fill: #AFA9EC; }
+        100% { fill: #534AB7; }
+      }
+      @keyframes a { to { opacity: 1; } }
     </style>
   </defs>
+
   <text x="400" y="100" text-anchor="middle" class="nombre">
     <tspan class="letra l1">J</tspan><tspan class="letra l2">u</tspan><tspan class="letra l3">a</tspan><tspan class="letra l4">n</tspan><tspan class="letra l5"> </tspan><tspan class="letra l6">D</tspan><tspan class="letra l7">i</tspan><tspan class="letra l8">e</tspan><tspan class="letra l9">g</tspan><tspan class="letra l10">o</tspan><tspan class="letra l11"> </tspan><tspan class="letra l12">M</tspan><tspan class="letra l13">o</tspan><tspan class="letra l14">n</tspan><tspan class="letra l15">s</tspan><tspan class="letra l16">a</tspan><tspan class="letra l17">l</tspan><tspan class="letra l18">v</tspan><tspan class="letra l19">e</tspan>
   </text>
-  <text x="400" y="148" text-anchor="middle" class="rol rol-fade">F U L L S T A C K </text>
-  <text x="400" y="148" text-anchor="middle" class="rol rol-fade">D E V E L O P E R </text>
+
+  <text x="400" y="148" text-anchor="middle" class="rol rol1">F U L L  S T A C K</text>
+  <text x="400" y="148" text-anchor="middle" class="rol rol2">D E V E L O P E R</text>
 </svg>

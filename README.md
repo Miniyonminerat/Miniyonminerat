@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./imagen.svg" alt="Juan Diego Monsalve - Programador" />
+  <img src="./animation.svg" alt="Juan Diego Monsalve - Programador" />
 </p>
 
 "In the process of becoming a Full Stack Developer, one line of code at a time." 🔥

@@ -28,19 +28,26 @@ Every project I take on is an opportunity to learn something new and write bette
 | **IDE & Extensions** | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-%23000000.svg?style=for-the-badge&logo=python&logoColor=white) |
 
 ---
-
 ## 📊 GitHub Stats
+
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Miniyonminerat&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Miniyonminerat&theme=aura&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miniyonminerat&theme=aura&hide_border=false&layout=compact)
+
+</div>
 
 ---
 
-## 🏆 Trophics
+## 🏆 Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Miniyonminerat&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Miniyonminerat&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 ---
 
 ### ✍️ Dev Quote of the Day

@@ -32,10 +32,9 @@ Every project I take on is an opportunity to learn something new and write bette
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Miniyonminerat&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Miniyonminerat&theme=aura&hide_border=false)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=Miniyonminerat&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miniyonminerat&theme=aura&hide_border=false&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Miniyonminerat&theme=aura&hide_border=false&layout=compact)
 
 </div>
 

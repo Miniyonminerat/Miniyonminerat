@@ -40,12 +40,11 @@ Every project I take on is an opportunity to learn something new and write bette
 </div>
 
 ---
-
 ## 🏆 Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Miniyonminerat&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+[![](https://github-trophies.vercel.app/?username=Miniyonminerat&theme=radical&no-frame=true&column=7)](https://github.com/Miniyonminerat)
 
 </div>
 ---

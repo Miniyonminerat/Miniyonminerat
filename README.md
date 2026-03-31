@@ -24,7 +24,7 @@ Every project I take on is an opportunity to learn something new and write bette
 | **Frontend** | [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev) |
 | **Backend** | [![My Skills](https://skillicons.dev/icons?i=python,flask,django)](https://skillicons.dev) |
 | **Databases** | [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev) |
-| **Tools & DevOps** | [![My Skills](https://skillicons.dev/icons?i=docker,github)](https://skillicons.dev) |
+| **Tools & DevOps** | [![My Skills](https://skillicons.dev/icons?i=docker,github,git)](https://skillicons.dev) |
 | **IDE & Extensions** | [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) |
 ---
 ## 📊 GitHub Stats
